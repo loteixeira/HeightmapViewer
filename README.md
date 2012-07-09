@@ -12,7 +12,7 @@ This software is distribuited under the terms of the GNU Lesser Public License.
 * AS3console: https://github.com/loteixeira/AS3console
 * MinimalComps: https://github.com/minimalcomps/minimalcomps
 
-## Initialize through FlashVars
+## Initializing through FlashVars
 You can start the application through FlashVars parameters.
 
 General parameters:
@@ -33,6 +33,3 @@ Visual parameters:
 * ```visual.light```: Set light source type. Valid values are none, directional and point.
 * ```visual.anti_aliasing```: Set anti aliasing. Valid values are 0, 2, 4 and 8.
 * ```visual.background```: Set application background color. Must be specified in hexadecimal.
-
-Example:
-```HeightmapViewer.swf?texture.dimension=1024x1024&visual.light=point```
