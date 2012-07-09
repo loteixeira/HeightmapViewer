@@ -9,8 +9,8 @@ You can navigate using the left panel to modify the view of the current heightma
 This software is distribuited under the terms of the GNU Lesser Public License.
 
 ## Libraries
-AS3console: https://github.com/loteixeira/AS3console
-MinimalComps: https://github.com/minimalcomps/minimalcomps
+* AS3console: https://github.com/loteixeira/AS3console
+* MinimalComps: https://github.com/minimalcomps/minimalcomps
 
 ## Initialize through FlashVars
 You can start the application through FlashVars parameters.
